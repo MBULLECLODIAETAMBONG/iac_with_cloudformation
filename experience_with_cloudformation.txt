@@ -1,0 +1,3 @@
+With cloudformation i have been able to deploy AWS Services in languages such as yaml or json.
+Wih a cloudformation, i have been able to create a stack, an s3-bucket, upload and delete the stack thereby reducing cost.
+with cloudformation, i have been able to connect my github with my jira account 
